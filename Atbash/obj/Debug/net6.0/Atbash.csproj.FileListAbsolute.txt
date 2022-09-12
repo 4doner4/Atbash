@@ -1,0 +1,15 @@
+D:\PROJECT\visual studio\Atbash\Atbash\bin\Debug\net6.0\Atbash.exe
+D:\PROJECT\visual studio\Atbash\Atbash\bin\Debug\net6.0\Atbash.deps.json
+D:\PROJECT\visual studio\Atbash\Atbash\bin\Debug\net6.0\Atbash.runtimeconfig.json
+D:\PROJECT\visual studio\Atbash\Atbash\bin\Debug\net6.0\Atbash.dll
+D:\PROJECT\visual studio\Atbash\Atbash\bin\Debug\net6.0\Atbash.pdb
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.csproj.AssemblyReference.cache
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.AssemblyInfoInputs.cache
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.AssemblyInfo.cs
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.csproj.CoreCompileInputs.cache
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.dll
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\refint\Atbash.dll
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.pdb
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\Atbash.genruntimeconfig.cache
+D:\PROJECT\visual studio\Atbash\Atbash\obj\Debug\net6.0\ref\Atbash.dll
